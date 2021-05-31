@@ -3,6 +3,9 @@ A collection of some easy Neural Network based Python projects
 
 ### Star-gazers : [![GitHub stars](https://img.shields.io/github/stars/MainakRepositor/Simple-Neural-Networks.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/MainakRepositor/Simple-Neural-Networks/stargazers/)
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+
 <hr>
 
 A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which can take in an input image, assign importance (learnable weights and biases) to various aspects/objects in the image and be able to differentiate one from the other. The pre-processing required in a ConvNet is much lower as compared to other classification algorithms. While in primitive methods filters are hand-engineered, with enough training, ConvNets have the ability to learn these filters/characteristics.
